@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fshader1.frag</file>
+        <file>vshader1.vert</file>
+    </qresource>
+</RCC>
